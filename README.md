@@ -7,6 +7,7 @@
  
  运行
 ======
+
   以下文件均位于heyuqi27/SecondTest的master分支中
   在main.py文件中运行可以自动申请题目和提交答案
   在AI_test.py文件中，修改json申请部分代码中的url的uuid值，运行后，可以做AI大比拼
@@ -14,6 +15,7 @@
   release中：
   双击“default.mp4"即可打开游戏演示
   解压”default.zip“后，双击index.html文件即可打开原型设计html
+  
 开发者日志
 ======
  第一阶段
